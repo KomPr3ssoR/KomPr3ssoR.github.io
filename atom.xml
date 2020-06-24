@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>KomPr3ssoR&#39;s DevLog</title>
+  
+  <subtitle>Some random logs of a self-study WebDev</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-24T15:36:33.365Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Xin Nie</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4rd deploy</title>
+    <link href="http://yoursite.com/2020/06/24/4rd-deploy/"/>
+    <id>http://yoursite.com/2020/06/24/4rd-deploy/</id>
+    <published>2020-06-24T15:36:00.000Z</published>
+    <updated>2020-06-24T15:36:33.365Z</updated>
+    
+    <content type="html"><![CDATA[<p>4th deploy</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;4th deploy&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="Test" scheme="http://yoursite.com/categories/Test/"/>
+    
+    
+      <category term="Test" scheme="http://yoursite.com/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>3rd deploy</title>
+    <link href="http://yoursite.com/2020/06/24/3rd-deploy/"/>
+    <id>http://yoursite.com/2020/06/24/3rd-deploy/</id>
+    <published>2020-06-24T06:21:00.000Z</published>
+    <updated>2020-06-24T06:21:39.861Z</updated>
+    
+    <content type="html"><![CDATA[<p>3rd deploy</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;3rd deploy&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="Test" scheme="http://yoursite.com/categories/Test/"/>
+    
+    
+      <category term="Test" scheme="http://yoursite.com/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows Firewall</title>
+    <link href="http://yoursite.com/2020/06/24/Windows-Firewall/"/>
+    <id>http://yoursite.com/2020/06/24/Windows-Firewall/</id>
+    <published>2020-06-24T05:26:00.000Z</published>
+    <updated>2020-06-24T05:55:06.471Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Windows-Firewall"><a href="#Windows-Firewall" class="headerlink" title="Windows Firewall"></a>Windows Firewall</h1><hr><h4 id="Host-Firewall"><a href="#Host-Firewall" class="headerlink" title="Host Firewall"></a>Host Firewall</h4><ul><li>Host firewall is an individual firewall. Windows Defender Firewall is a host-based firewall that comes with Windows</li><li>Host firewalls protect systems using host features such as file names or process IDs</li><li>Windows defender firewall has three settings:<ul><li>Domain network</li><li>Private network</li><li>Guest or public network</li></ul></li></ul><hr><h4 id="Network-discovery-amp-exception"><a href="#Network-discovery-amp-exception" class="headerlink" title="Network discovery &amp; exception"></a>Network discovery &amp; exception</h4><ul><li>You can create exceptions manually if needed</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Windows-Firewall&quot;&gt;&lt;a href=&quot;#Windows-Firewall&quot; class=&quot;headerlink&quot; title=&quot;Windows Firewall&quot;&gt;&lt;/a&gt;Windows Firewall&lt;/h1&gt;&lt;hr&gt;
+&lt;h4 id=&quot;Host
+      
+    
+    </summary>
+    
+    
+      <category term="Notes" scheme="http://yoursite.com/categories/Notes/"/>
+    
+    
+      <category term="CompTIA+" scheme="http://yoursite.com/tags/CompTIA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>first</title>
+    <link href="http://yoursite.com/2020/06/23/first/"/>
+    <id>http://yoursite.com/2020/06/23/first/</id>
+    <published>2020-06-24T01:47:53.000Z</published>
+    <updated>2020-06-24T06:20:11.607Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><p>test for deploy</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h1&gt;&lt;p&gt;test for deploy&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/06/23/hello-world/"/>
+    <id>http://yoursite.com/2020/06/23/hello-world/</id>
+    <published>2020-06-24T01:45:21.052Z</published>
+    <updated>2020-06-24T01:45:21.052Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
