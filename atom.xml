@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-25T19:06:18.366Z</updated>
+  <updated>2020-06-25T19:24:21.284Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Portable Computing</title>
+    <link href="http://yoursite.com/2020/06/25/Portable-Computing/"/>
+    <id>http://yoursite.com/2020/06/25/Portable-Computing/</id>
+    <published>2020-06-25T19:23:00.000Z</published>
+    <updated>2020-06-25T19:24:21.284Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Portable-Computing"><a href="#Portable-Computing" class="headerlink" title="Portable Computing"></a>Portable Computing</h1><hr><h4 id="Power-Management"><a href="#Power-Management" class="headerlink" title="Power Management"></a>Power Management</h4><p><em>Objective 1.6 Given a scenario, use Microsoft Windows Control Panel utilities</em></p><blockquote><p>Objective term</p><p><em>AC Adapter - Vendor-specific power ports</em></p><p><em>ACPI - Advanced Configuration and Power Interface</em></p></blockquote><ul><li>ACPI level 0 - Power is on</li><li>ACPI level 3 - Sleep mode</li><li>ACPI level 4 - Hibernation mode</li><li>All OS provide power management utilities</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Portable-Computing&quot;&gt;&lt;a href=&quot;#Portable-Computing&quot; class=&quot;headerlink&quot; title=&quot;Portable Computing&quot;&gt;&lt;/a&gt;Portable Computing&lt;/h1&gt;&lt;hr&gt;
+&lt;h4 
+      
+    
+    </summary>
+    
+    
+      <category term="Notes" scheme="http://yoursite.com/categories/Notes/"/>
+    
+    
+      <category term="CompTIA A+" scheme="http://yoursite.com/tags/CompTIA-A/"/>
+    
+  </entry>
   
   <entry>
     <title>The Internet</title>
