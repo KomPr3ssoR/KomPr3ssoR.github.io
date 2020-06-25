@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-25T17:34:25.861Z</updated>
+  <updated>2020-06-25T19:06:18.366Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Internet</title>
+    <link href="http://yoursite.com/2020/06/25/The-Internet/"/>
+    <id>http://yoursite.com/2020/06/25/The-Internet/</id>
+    <published>2020-06-25T19:05:00.000Z</published>
+    <updated>2020-06-25T19:06:18.366Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="The-Internet"><a href="#The-Internet" class="headerlink" title="The Internet"></a>The Internet</h1><hr><p><em>Objective 4.9 Given a scenario, use remote access technologies</em></p><h4 id="Telnet-and-SSH"><a href="#Telnet-and-SSH" class="headerlink" title="Telnet and SSH"></a>Telnet and SSH</h4><blockquote><p><em>Objective Term:</em></p><p><em>Telnet - Port 23</em></p><p><em>Secure Shell (SSH) - port 22</em></p></blockquote><ul><li>The Telnet and the Secure Shell (SSH) protocols provide command line access to remove systems</li><li>Telnet runs on TCP port 23; SSH runs on TCP port 22</li><li>Telnet is unencrypted; SSH is encrypted</li></ul><h4 id="Remote-Desktop-Connections"><a href="#Remote-Desktop-Connections" class="headerlink" title="Remote Desktop Connections"></a>Remote Desktop Connections</h4><blockquote><p><em>Objective Term:</em></p><p><em>Remote Desktop Protocol (RDP) - Port 3389</em> </p><p><em>Virtual Network Computing (VNC) - Port 5900+N</em> </p></blockquote><ul><li>Windows uses Remote Desktop Protocol (RDP) for remote connectivity</li><li>Use Virtual Network Computing (VNC) protocol for connecting to Linux and Mac systems</li><li>Try Tight VNC to use VNC from a Windows system</li></ul><h4 id="The-World-Wide-Web"><a href="#The-World-Wide-Web" class="headerlink" title="The World Wide Web"></a>The World Wide Web</h4><p><em>Objective 2.2 Explain logical security concepts</em></p><blockquote><p>Objective Term:</p><p><em>HTTP - port 80 (insecure)</em> </p><p><em>HTTPS - port 443 (encrypts everything)</em></p><p><em>Secure Sockets Layer (SSL)</em></p><p><em>Transport Layer Security (TLS)</em></p></blockquote><ul><li>The World Wide Web uses either the Hypertext Transfer Protocol (HTTP) or HTTP Secure (HTTPS) protocols</li><li>HTTP uses port 80 and is not secure</li><li>HTTPS uses port 443 and uses certificates to make a secure connection </li><li>Make sure to recognize typical certificate errors</li></ul><h4 id="Troubleshooting-Internet-Connections"><a href="#Troubleshooting-Internet-Connections" class="headerlink" title="Troubleshooting Internet Connections"></a>Troubleshooting Internet Connections</h4><p><em>Objective 1.4 Given a scenario, use appropriate Microsoft command line tools</em></p><ul><li><p>Check your physical system first</p></li><li><p>Know your network</p><ul><li><code>ipconfig/all</code></li></ul></li><li><p>Know your network connectivity</p><ul><li><code>tracert</code>(Win), <code>traceroute</code>(Linux/Mac)</li><li><code>ping</code> </li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;The-Internet&quot;&gt;&lt;a href=&quot;#The-Internet&quot; class=&quot;headerlink&quot; title=&quot;The Internet&quot;&gt;&lt;/a&gt;The Internet&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Objective 4.9 Given a
+      
+    
+    </summary>
+    
+    
+      <category term="Notes" scheme="http://yoursite.com/categories/Notes/"/>
+    
+    
+      <category term="CompTIA A+" scheme="http://yoursite.com/tags/CompTIA-A/"/>
+    
+  </entry>
   
   <entry>
     <title>Wireless Networking</title>
