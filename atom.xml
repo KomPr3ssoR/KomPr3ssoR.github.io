@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-24T17:23:39.679Z</updated>
+  <updated>2020-06-25T17:34:25.861Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wireless Networking</title>
+    <link href="http://yoursite.com/2020/06/25/Windows-Firewall-1/"/>
+    <id>http://yoursite.com/2020/06/25/Windows-Firewall-1/</id>
+    <published>2020-06-25T17:34:00.000Z</published>
+    <updated>2020-06-25T17:34:25.861Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Wireless-Networking"><a href="#Wireless-Networking" class="headerlink" title="Wireless Networking"></a>Wireless Networking</h1><hr><p><em>Objective 2.3 Compare and contrast wireless security protocols and authentication methods</em></p><h4 id="Wireless-Encryption"><a href="#Wireless-Encryption" class="headerlink" title="Wireless Encryption"></a>Wireless Encryption</h4><blockquote><p><em>Objective Term:</em></p><p><em>WEP (Wired Equivalent Privacy)</em></p><p><em>TKIP (Temporal Key Integrity Protocol)</em></p><p><em>AES (Advanced Encryption Standard)</em></p><p><em>WPA (Wi-Fi Protected Access)</em></p><p><em>WPS (Wi-Fi Protected Setup)</em></p></blockquote><ul><li>The obsolete WEP encryption is easily cracked today and is never used</li><li>WPA introduced TKIP-personal shared key and RADIUS authentication</li><li>WPA2 added AES encryption</li><li>WPS automates encryption, but is easily crackable</li></ul><h4 id="Enterprise-Wireless"><a href="#Enterprise-Wireless" class="headerlink" title="Enterprise Wireless"></a>Enterprise Wireless</h4><blockquote><p><em>Object Term:</em></p><p><em>Power over Ethernet (PoE)</em></p><p><em>PoE (1st generation) and PoE+</em></p><p><em>PoE injector</em></p><p><em>AAA - authorization, authentication, accounting</em></p><p><em>RADIUS or TACACS+</em></p><p><em>Extended SSID (ESSID)</em> </p></blockquote><ul><li>Enterprise WAPs often use Power over Ethernet (PoE)</li><li>Use powerful wireless analysis tools to determine  WAP location</li><li>Enterprise networks often use RADIUS or TACACS+ protocols for authentication</li><li>Two or more WAPs sharing the same SSID are known as ESSIDs</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Wireless-Networking&quot;&gt;&lt;a href=&quot;#Wireless-Networking&quot; class=&quot;headerlink&quot; title=&quot;Wireless Networking&quot;&gt;&lt;/a&gt;Wireless Networking&lt;/h1&gt;&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="Notes" scheme="http://yoursite.com/categories/Notes/"/>
+    
+    
+      <category term="CompTIA A+" scheme="http://yoursite.com/tags/CompTIA-A/"/>
+    
+  </entry>
   
   <entry>
     <title>Port Forwarding</title>
