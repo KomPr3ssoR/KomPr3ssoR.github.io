@@ -126,60 +126,6 @@
   </entry>
   
   <entry>
-    <title>4rd deploy</title>
-    <link href="http://yoursite.com/2020/06/24/4rd-deploy/"/>
-    <id>http://yoursite.com/2020/06/24/4rd-deploy/</id>
-    <published>2020-06-24T15:36:00.000Z</published>
-    <updated>2020-06-24T15:36:33.365Z</updated>
-    
-    <content type="html"><![CDATA[<p>4th deploy</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;4th deploy&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="Test" scheme="http://yoursite.com/categories/Test/"/>
-    
-    
-      <category term="Test" scheme="http://yoursite.com/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>3rd deploy</title>
-    <link href="http://yoursite.com/2020/06/24/3rd-deploy/"/>
-    <id>http://yoursite.com/2020/06/24/3rd-deploy/</id>
-    <published>2020-06-24T06:21:00.000Z</published>
-    <updated>2020-06-24T06:21:39.861Z</updated>
-    
-    <content type="html"><![CDATA[<p>3rd deploy</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;3rd deploy&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="Test" scheme="http://yoursite.com/categories/Test/"/>
-    
-    
-      <category term="Test" scheme="http://yoursite.com/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Windows Firewall</title>
     <link href="http://yoursite.com/2020/06/24/Windows-Firewall/"/>
     <id>http://yoursite.com/2020/06/24/Windows-Firewall/</id>
