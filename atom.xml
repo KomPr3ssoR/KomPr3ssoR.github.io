@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-25T19:24:21.284Z</updated>
+  <updated>2020-06-26T03:29:53.247Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Care and Feeding of Mobile Devices</title>
+    <link href="http://yoursite.com/2020/06/25/Care-and-Feeding-of-Mobile-Devices/"/>
+    <id>http://yoursite.com/2020/06/25/Care-and-Feeding-of-Mobile-Devices/</id>
+    <published>2020-06-26T03:29:00.000Z</published>
+    <updated>2020-06-26T03:29:53.247Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Care-and-Feeding-of-Mobile-Devices"><a href="#Care-and-Feeding-of-Mobile-Devices" class="headerlink" title="Care and Feeding of Mobile Devices"></a>Care and Feeding of Mobile Devices</h1><hr><h4 id="Mobile-Device-Security"><a href="#Mobile-Device-Security" class="headerlink" title="Mobile Device Security"></a>Mobile Device Security</h4><p><em>Objective 2.8 Given a scenario, implement methods for securing mobile devices</em></p><blockquote><p>Objective term</p><p><em>Screen Lock</em></p><p><em>Face recognition</em></p><p><em>Multi-factor authentication</em></p><p><em>Authenticator apps</em></p><p><em>Locator apps</em></p><p><em>Erase device</em></p><p><em>Mobile Device Management</em></p></blockquote><ul><li>Screen locks prevent others form accessing your phone and use fingerprints, pin codes, passwords, or facial recognition</li><li>Multifactor authentication means to use more than one way to authenticate</li><li>Authenticator apps add an extra layer of security</li><li>Location apps like FInd my Phone help locate lost devices</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Care-and-Feeding-of-Mobile-Devices&quot;&gt;&lt;a href=&quot;#Care-and-Feeding-of-Mobile-Devices&quot; class=&quot;headerlink&quot; title=&quot;Care and Feeding of Mobi
+      
+    
+    </summary>
+    
+    
+      <category term="Notes" scheme="http://yoursite.com/categories/Notes/"/>
+    
+    
+      <category term="CompTIA A+" scheme="http://yoursite.com/tags/CompTIA-A/"/>
+    
+  </entry>
   
   <entry>
     <title>Portable Computing</title>
